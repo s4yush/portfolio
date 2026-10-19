@@ -2,7 +2,7 @@
 # macOS Tahoe Portfolio
 
 
-**live** [sahil](portfolio-three-roan-4m31awznai.vercel.app)
+**live** portfolio-three-roan-4m31awznai.vercel.app
 
 **Source code:** [github.com/s4yush/macOS-Portfolio](https://github.com/s4yush/macOS-Portfolio)
 
