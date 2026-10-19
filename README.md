@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # macOS Tahoe Portfolio
 
 **Source code:** [github.com/s4yush/macOS-Portfolio](https://github.com/s4yush/macOS-Portfolio)
@@ -31,3 +32,7 @@ pnpm build    # production build → dist/
 
 - [macOS Tahoe 26](https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/)
 - [iOS 26](https://support.apple.com/en-us/123075)
+=======
+# portfolio
+macOS running in your browser — Dock, menubar, windows, Liquid Glass, the whole thing. Drop a star if this made you excited.
+>>>>>>> 82b5e61962215317df0ff0865249b712d5b21f61
