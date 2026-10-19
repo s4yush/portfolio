@@ -35,6 +35,6 @@ pnpm build    # production build → dist/
 
 - [macOS Tahoe 26](https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/)
 - [iOS 26](https://support.apple.com/en-us/123075)
-=======
+  
 
 
