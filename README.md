@@ -2,7 +2,9 @@
 # macOS Tahoe Portfolio
 
 
-**live** portfolio-three-roan-4m31awznai.vercel.app
+[![Architecture diagram of s4yush/portfolio](https://gitdiagram.com/s4yush/portfolio/diagram.png)](https://gitdiagram.com/s4yush/portfolio?utm_source=readme&utm_medium=picture)
+
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/s4yush/portfolio?utm_source=readme&utm_medium=badge)
 
 **Source code:** [github.com/s4yush/macOS-Portfolio](https://github.com/s4yush/portfolio)
 
