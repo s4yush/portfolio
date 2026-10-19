@@ -4,7 +4,7 @@
 
 **live** portfolio-three-roan-4m31awznai.vercel.app
 
-**Source code:** [github.com/s4yush/macOS-Portfolio](https://github.com/s4yush/macOS-Portfolio)
+**Source code:** [github.com/s4yush/macOS-Portfolio](https://github.com/s4yush/portfolio)
 
 I've never owned a MacBook. But I've always been kind of obsessed with how macOS looks and feels — the way everything just... flows. So at some point I stopped wishing and started building.
 
