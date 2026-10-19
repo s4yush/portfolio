@@ -1,5 +1,7 @@
-<<<<<<< HEAD
+
 # macOS Tahoe Portfolio
+
+**live** [sahil](portfolio-three-roan-4m31awznai.vercel.app)
 
 **Source code:** [github.com/s4yush/macOS-Portfolio](https://github.com/s4yush/macOS-Portfolio)
 
@@ -35,4 +37,4 @@ pnpm build    # production build → dist/
 =======
 # portfolio
 macOS running in your browser — Dock, menubar, windows, Liquid Glass, the whole thing. Drop a star if this made you excited.
->>>>>>> 82b5e61962215317df0ff0865249b712d5b21f61
+
