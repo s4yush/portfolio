@@ -13,10 +13,7 @@ I'm a first-year B.Tech student and developer, learning by building projects and
 
 ## Selected projects
 
-- [SkillExchange](https://skill-exchange-fe.vercel.app/) — a project about sharing skills.
-- [ShareCode](https://share-your-codes.vercel.app/) — a code-sharing project.
-- [Paytm Web](https://paytm-web.vercel.app/) — a web project in the Paytm category.
-- [MBM Attendance](https://mbm-attendance-web.vercel.app/) — an attendance-focused project.
+- [-comming soon].
 
 ## Contact
 
